@@ -2,18 +2,22 @@
 Senior Technology Expert
 
 # [Autonomous Car: Java Osgi Autonomous car ](https://github.com/hmosqueraturner/sua-autonomous-car) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+* Este proyecto es parte de un trabajo de master y fue mejorado de manera personal posteriormente
+* Se trata de un vehiculo autonomo implementado en lenguaje java
+* emplea OSGi para la actualizacion en runtime 
 
-
+![](/images/underCon.jpg)
 
 
 # [Android: Multitouch examples ](https://github.com/hmosqueraturner/dim-android-multitouch) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
+Este proyecto emplea el poder del multitouch en android y se compone de 7 ejemplos de uso.
+1. ejemplo 1
+2. ejemplo 2
+3. ejemplo 3
+4. ejemplo 4
+5. ejemplo 5
+6. ejemplo 6
+7. ejemplo 7
+Fue desarrollado inicialmente como parte de un trabajo de master y ha sido mejorado de manera personal. 
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
-
-
+![](/images/byocl1.jpg)
