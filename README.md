@@ -8,7 +8,6 @@ Senior Technology Expert
 
 ![](/images/underCon.jpg)
 
-
 # [Android: Multitouch examples ](https://github.com/hmosqueraturner/dim-android-multitouch) 
 Este proyecto emplea el poder del multitouch en android y se compone de 7 ejemplos de uso.
 1. ejemplo 1
@@ -20,4 +19,4 @@ Este proyecto emplea el poder del multitouch en android y se compone de 7 ejempl
 7. ejemplo 7
 Fue desarrollado inicialmente como parte de un trabajo de master y ha sido mejorado de manera personal. 
 
-![](/images/byocl1.jpg)
+![](/images/underCon.jpg)
