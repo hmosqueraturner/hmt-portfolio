@@ -1,5 +1,5 @@
-# Hector Mosquera Turner Portfolio
-Senior Technology Expert
+# Development Projects Portfolio
+list of development projects using multiple programming languages ​​and frameworks
 
 # [Autonomous Car: Java Osgi Autonomous car ](https://github.com/hmosqueraturner/sua-autonomous-car) 
 * Este proyecto es parte de un trabajo de master y fue mejorado de manera personal posteriormente
