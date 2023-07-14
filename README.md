@@ -51,3 +51,17 @@ Fue desarrollado inicialmente como parte de un trabajo de master y ha sido mejor
 | ejemplo 5           | good `zoute` drop | ok  |
 | ejemplo 6           | good `zoute` drop | ok  |
 | ejemplo 7           | good `zoute` drop | ok  |
+
+
+# Next Generation Projects - WIP 
+Grupo de proyectos multi lenguajes, multi tech en los que estoy empezando a trabajar.
+
+| Project                         | Description                                                                                | Status | Link             | 
+|:--------------------------------|:-------------------------------------------------------------------------------------------|:-------|:-----------------|
+| E-commerce Site   |Frontend: Svelte - Backend: Node.js + Express - Base de Datos: PostgreSQL - Otros: Typescript| ok | wip   |
+| Social Media App  |Frontend: React<br>- Backend: Node.js + Express<br>- Base de Datos: MongoDB<br>- Otros: Typescript| ok  | wip   |
+| Aplicación de Gestión de Tareas |Frontend: Angular<br>- Backend: Java (Spring Boot)<br>- Base de Datos: MySQL<br>- Otros: HTML, CSS, JavaScript| wip  | wip   |
+| Aplicación de Noticias Móviles |Desarrollo de una interfaz de usuario móvil (Android) - Uso de Firebase como base de datos en la nube - Otros: Java, HTML, CSS| wip  | wip   |
+| Sistema de Gestión de Proyectos|Frontend: React - Backend: Python (Django) - Base de Datos: PostgreSQL - Servicios en la Nube: AWS/Azure - Otros: HTML, CSS, JavaScript| wip  | wip   |
+
+
