@@ -2,30 +2,32 @@
 list of development projects using multiple programming languages ​​and frameworks
 
 # [Ideal CI/CD One: Ideal Pipeline 1 ](https://github.com/hmosqueraturner/ideal-cicd-one) 
-* Ideal Pipeline for CICD 1 - Jenkins, Java, Docker, Terraform, Ansible & Azure
-* Model for CICD deploying a Java application to run on a Docker container on Azure Cloud
-* Terraform for provisioning, ansible for deploy and CM.
+* Un ejemplo completo de un pipeline de CI/CD con Jenkins, utilizando Groovy,
+* GitHub como sistema de control de versiones (SCM),
+* Maven para construir una aplicación Java
+* Docker, Kubernetes,
+* Terraform para la Infraestructura como Código (IaC),
+* Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
 # [ACiD: Automatic Continuous Integration and Delivery Suite ](https://github.com/hmosqueraturner/ACiD) 
 * 1. Set Up ACiD Suite
-Instala y configura todas las herramientas para la suite con base en los parametros de entrada
-Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
-Instala Jenkins, Maven, NPM, SonarQube, Nexus / Artifactory, Docker / Buildah, Kubernettes, Terraform, Ansible
-El provider o red destino para aplicar la infraestructura tambien debe ser pasado como parametro
+* Instala y configura todas las herramientas para la suite con base en los parametros de entrada
+* Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
+* Instala Jenkins, Maven, NPM, SonarQube, Nexus / Artifactory, Docker / Buildah, Kubernettes, Terraform, Ansible
+* El provider o red destino para aplicar la infraestructura tambien debe ser pasado como parametro
 Azure / AWS / GCP / On-Prem
 * 2. Use ACiD Pipeline
-Descarga el codigo y complia la aplicacion con base en los parametros de entrada
-Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
-Un pipeline de CI/CD con Jenkins, utilizando Groovy
-GitHub como sistema de control de versiones (SCM)
-Maven / NPM para construir una aplicación Java / Node.js
-Docker / Buildah, Kubernetes
-Terraform para la Infraestructura como Código (IaC),
-Ansible para la configuración del sistema y el despliegue en Azure Cloud
+* Descarga el codigo y complia la aplicacion con base en los parametros de entrada
+* Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
+* Un pipeline de CI/CD con Jenkins, utilizando Groovy
+* GitHub como sistema de control de versiones (SCM)
+* Maven / NPM para construir una aplicación Java / Node.js
+* Docker / Buildah, Kubernetes
+* Terraform para la Infraestructura como Código (IaC),
+* Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
+# [ACiD-One: ACiD Solution for TFM ](https://github.com/hmosqueraturner/acid-one) 
 ![](/images/underCon.jpg)
-
-# [ACiD-One: ACiD Solution for TFM ](https://github.com/hmosqueraturner/ACiD) 
 * Este proyecto es parte de mi rabajo de fin de master
 * Se trata un pipeline que automatiza el proceso de CICD para un ecosistema de componentes y aplicacion pricipal con mensajeria en kafka
 * Este pipeline va desde SCM, Build, Test, Linting, Publish y Deploy, donde se cede el control a Ansible Tower
