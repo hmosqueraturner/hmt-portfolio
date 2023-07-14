@@ -14,14 +14,10 @@ list of development projects using multiple programming languages ​​and fram
 * Este pipeline va desde SCM, Build, Test, Linting, Publish y Deploy, donde se cede el control a Ansible Tower
 * Ansible tower workflow, ansible playbooks son los encargados del aprovisionamiento de las VMs para los componentes y aplicaciones, CM, deploy, run y smoke test
 
-![](/images/underCon.jpg)
-
 # [Autonomous Car: Java Osgi Autonomous car ](https://github.com/hmosqueraturner/sua-autonomous-car) 
 * Este proyecto es parte de un trabajo de master y fue mejorado de manera personal posteriormente
 * Se trata de un vehiculo autonomo implementado en lenguaje java
 * emplea OSGi para la actualizacion en runtime 
-
-![](/images/underCon.jpg)
 
 # [Android: Multitouch examples ](https://github.com/hmosqueraturner/dim-android-multitouch) 
 Este proyecto emplea el poder del multitouch en android y se compone de 7 ejemplos de uso.
@@ -36,5 +32,3 @@ Fue desarrollado inicialmente como parte de un trabajo de master y ha sido mejor
 | ejemplo 5           | good `zoute` drop | ok  |
 | ejemplo 6           | good `zoute` drop | ok  |
 | ejemplo 7           | good `zoute` drop | ok  |
-
-![](/images/underCon.jpg)
