@@ -16,7 +16,7 @@ list of development projects using multiple programming languages ​​and fram
 * Instala Jenkins, Maven, NPM, SonarQube, Nexus o Artifactory, Docker o Buildah, Kubernettes, Terraform, Ansible
 * El provider o red destino para aplicar la infraestructura tambien debe ser pasado como parametro
 * Azure o AWS o GCP u On-Prem
-<b>Use ACiD Pipeline:</b>
+<br><b>Use ACiD Pipeline:</b>
 * Descarga el codigo y complia la aplicacion con base en los parametros de entrada
 * Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
 * Un pipeline de CI/CD con Jenkins, utilizando Groovy
@@ -58,10 +58,10 @@ Grupo de proyectos multi lenguajes, multi tech en los que estoy empezando a trab
 
 | Project                         | Description                                                                                | Status | Link             | 
 |:--------------------------------|:-------------------------------------------------------------------------------------------|:-------|:-----------------|
-| E-commerce Site   |Frontend: Svelte<br>- Backend: Node.js + Express<br>- Base de Datos: PostgreSQL<br>- Otros: Typescript| ok | wip   |
-| Social Media App  |Frontend: React<br>- Backend: Node.js + Express<br>- Base de Datos: MongoDB<br>- Otros: Typescript| ok  | wip   |
-| Aplicación de Gestión de Tareas |Frontend: Angular<br>- Backend: Java (Spring Boot)<br>- Base de Datos: MySQL<br>- Otros: HTML, CSS, JavaScript| wip  | wip   |
-| Aplicación de Noticias Móviles |Desarrollo de una interfaz de usuario móvil (Android)<br>- Uso de Firebase como base de datos en la nube<br>- Otros: Java, HTML, CSS| wip  | wip   |
+| E-commerce Site   |- Frontend: Svelte<br>- Backend: Node.js + Express<br>- Base de Datos: PostgreSQL<br>- Otros: Typescript| ok | wip   |
+| Social Media App  |- Frontend: React<br>- Backend: Node.js + Express<br>- Base de Datos: MongoDB<br>- Otros: Typescript| ok  | wip   |
+| Aplicación de Gestión de Tareas |- Frontend: Angular<br>- Backend: Java (Spring Boot)<br>- Base de Datos: MySQL<br>- Otros: HTML, CSS, JavaScript| wip  | wip   |
+| Aplicación de Noticias Móviles |- Desarrollo de una interfaz de usuario móvil (Android)<br>- Uso de Firebase como base de datos en la nube<br>- Otros: Java, HTML, CSS| wip  | wip   |
 | Sistema de Gestión de Proyectos|Frontend: React<br>- Backend: Python (Django)<br>- Base de Datos: PostgreSQL<br>- Servicios en la Nube: AWS/Azure<br>- Otros: HTML, CSS, JavaScript| wip  | wip   |
 
 
