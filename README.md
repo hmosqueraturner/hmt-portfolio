@@ -2,7 +2,7 @@
 List of development projects using multiple programming languages ​​and frameworks
 
 # [Ideal CI/CD One: Ideal Pipeline 1 ](https://github.com/hmosqueraturner/ideal-cicd-one) 
-![](/images/devOpsPIPE1.png)
+![](/images/pipeline.png)
 * Un ejemplo completo de un pipeline de CI/CD con Jenkins, utilizando Groovy,
 * GitHub como sistema de control de versiones (SCM),
 * Maven para construir una aplicación Java
@@ -67,7 +67,7 @@ Fue desarrollado inicialmente como parte de un trabajo de master y ha sido mejor
 
 # Next Generation Projects - WIP 
 Grupo de proyectos multi lenguajes, multi tech en los que estoy empezando a trabajar.
-![](/images/1.png)<br><br>
+![](/images/softpro.png)<br><br>
 
 | Project                         | Description                                                                                | Status | Link             | 
 |:--------------------------------|:-------------------------------------------------------------------------------------------|:-------|:-----------------|
