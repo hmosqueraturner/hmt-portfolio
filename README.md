@@ -13,13 +13,13 @@ List of development projects using multiple programming languages ​​and fram
 # [ACiD: Automatic Continuous Integration and Delivery Suite ](https://github.com/hmosqueraturner/ACiD) 
 ![](/images/underCon.jpg)<br>
 Un ejemplo de la suite personal de automatizacion para CI/CD con Jenkins<br>
-# # # Set Up ACiD Suite:
+### Set Up ACiD Suite:
 * Instala y configura todas las herramientas para la suite con base en los parametros de entrada
 * Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
 * Instala Jenkins, Maven, NPM, SonarQube, Nexus o Artifactory, Docker o Buildah, Kubernettes, Terraform, Ansible
 * El provider o red destino para aplicar la infraestructura tambien debe ser pasado como parametro
 * Azure o AWS o GCP u On-Prem<br>
-# # # Use ACiD Pipeline:
+### Use ACiD Pipeline:
 * Descarga el codigo y complia la aplicacion con base en los parametros de entrada
 * Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
 * Un pipeline de CI/CD con Jenkins, utilizando Groovy
@@ -53,14 +53,14 @@ Este proyecto emplea el poder del multitouch en android y se compone de 7 ejempl
 Fue desarrollado inicialmente como parte de un trabajo de master y ha sido mejorado de manera personal. 
 
 | Example        | Description          | Status |
-|:-------------|:------------------|:------|
-| ejemplo 1           | good swedish fish | ok  |
-| ejemplo 2           | good and plenty   | ok  |
-| ejemplo 3           | good `oreos`      | wip   |
-| ejemplo 4           | good `zoute` drop | ok  |
-| ejemplo 5           | good `zoute` drop | ok  |
-| ejemplo 6           | good `zoute` drop | ok  |
-| ejemplo 7           | good `zoute` drop | ok  |
+|:---------------|:---------------------|:-------|
+| ejemplo 1      | good swedish fish   | ok    |
+| ejemplo 2      | good and plenty     | ok    |
+| ejemplo 3      | good `oreos`        | wip   |
+| ejemplo 4      | good `zoute` drop   | ok    |
+| ejemplo 5      | good `zoute` drop   | ok    |
+| ejemplo 6      | good `zoute` drop   | ok    |
+| ejemplo 7      | good `zoute` drop   | ok    |
 
 
 # Next Generation Projects - WIP 
