@@ -11,15 +11,15 @@ List of development projects using multiple programming languages ​​and fram
 * Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
 # [ACiD: Automatic Continuous Integration and Delivery Suite ](https://github.com/hmosqueraturner/ACiD) 
-![](/images/underCon.jpg)<br><br>
-Un ejemplo de la suite personal de automatizacion para CI/CD con Jenkins<br><br>
-<b>Set Up ACiD Suite:</b>
+![](/images/underCon.jpg)<br>
+Un ejemplo de la suite personal de automatizacion para CI/CD con Jenkins
+###Set Up ACiD Suite:
 * Instala y configura todas las herramientas para la suite con base en los parametros de entrada
 * Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
 * Instala Jenkins, Maven, NPM, SonarQube, Nexus o Artifactory, Docker o Buildah, Kubernettes, Terraform, Ansible
 * El provider o red destino para aplicar la infraestructura tambien debe ser pasado como parametro
-* Azure o AWS o GCP u On-Prem<br>
-<br><b>Use ACiD Pipeline:</b>
+* Azure o AWS o GCP u On-Prem
+###Use ACiD Pipeline:
 * Descarga el codigo y complia la aplicacion con base en los parametros de entrada
 * Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
 * Un pipeline de CI/CD con Jenkins, utilizando Groovy
