@@ -11,7 +11,7 @@ List of development projects using multiple programming languages ​​and fram
 * Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
 # [ACiD: Automatic Continuous Integration and Delivery Suite ](https://github.com/hmosqueraturner/ACiD) 
-![](/images/underCon.jpg)
+![](/images/acid2.png)
 <br>
 Un ejemplo de la suite personal de automatizacion para CI/CD con Jenkins<br>
 ** Set Up ACiD Suite: **
@@ -31,7 +31,7 @@ Un ejemplo de la suite personal de automatizacion para CI/CD con Jenkins<br>
 * Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
 # [ACiD-One: ACiD Solution for TFM ](https://github.com/hmosqueraturner/acid-one) 
-![](/images/acid2.png)
+![](/images/acid-one.png)
 * Este proyecto es parte de mi rabajo de fin de master
 * Se trata un pipeline que automatiza el proceso de CICD para un ecosistema de componentes y aplicacion pricipal con mensajeria en kafka
 * Este pipeline va desde SCM, Build, Test, Linting, Publish y Deploy, donde se cede el control a Ansible Tower
@@ -44,12 +44,13 @@ Un ejemplo de la suite personal de automatizacion para CI/CD con Jenkins<br>
 * emplea OSGi para la actualizacion en runtime 
 
 # [Autonomous Car: Java Osgi Autonomous car ](https://github.com/hmosqueraturner/sua-autonomous-car) 
-![](/images/underCon.jpg)
+![](/images/carote.png)
 * Este proyecto es parte de un trabajo de master y fue mejorado de manera personal posteriormente
 * Se trata de un vehiculo autonomo implementado en lenguaje java
 * emplea OSGi para la actualizacion en runtime 
 
 # [Android: Multitouch examples ](https://github.com/hmosqueraturner/dim-android-multitouch) 
+![](/images/multitouch.png)
 Este proyecto emplea el poder del multitouch en android y se compone de 7 ejemplos de uso.
 Fue desarrollado inicialmente como parte de un trabajo de master y ha sido mejorado de manera personal. 
 
