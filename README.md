@@ -1,7 +1,8 @@
 # Development Projects
-list of development projects using multiple programming languages ​​and frameworks
+List of development projects using multiple programming languages ​​and frameworks
 
 # [Ideal CI/CD One: Ideal Pipeline 1 ](https://github.com/hmosqueraturner/ideal-cicd-one) 
+![](/images/3.png)
 * Un ejemplo completo de un pipeline de CI/CD con Jenkins, utilizando Groovy,
 * GitHub como sistema de control de versiones (SCM),
 * Maven para construir una aplicación Java
@@ -10,6 +11,8 @@ list of development projects using multiple programming languages ​​and fram
 * Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
 # [ACiD: Automatic Continuous Integration and Delivery Suite ](https://github.com/hmosqueraturner/ACiD) 
+![](/images/underCon.jpg)
+Un ejemplo de la suite personal de automatizacion para CI/CD con Jenkins
 <b>Set Up ACiD Suite:</b>
 * Instala y configura todas las herramientas para la suite con base en los parametros de entrada
 * Los parametros son tomados del pipeline o directamente como extra vars si se usa el playbook desde una CLI
@@ -27,13 +30,20 @@ list of development projects using multiple programming languages ​​and fram
 * Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
 # [ACiD-One: ACiD Solution for TFM ](https://github.com/hmosqueraturner/acid-one) 
-![](/images/underCon.jpg)
+![](/images/acid2.png)
 * Este proyecto es parte de mi rabajo de fin de master
 * Se trata un pipeline que automatiza el proceso de CICD para un ecosistema de componentes y aplicacion pricipal con mensajeria en kafka
 * Este pipeline va desde SCM, Build, Test, Linting, Publish y Deploy, donde se cede el control a Ansible Tower
 * Ansible tower workflow, ansible playbooks son los encargados del aprovisionamiento de las VMs para los componentes y aplicaciones, CM, deploy, run y smoke test
 
+# [ServantLi: Java Osgi Autonomous car ](https://github.com/hmosqueraturner/sua-autonomous-car) 
+![](/images/servantLiBP.png)
+* Este proyecto es parte de un trabajo de master y fue mejorado de manera personal posteriormente
+* Se trata de un vehiculo autonomo implementado en lenguaje java
+* emplea OSGi para la actualizacion en runtime 
+
 # [Autonomous Car: Java Osgi Autonomous car ](https://github.com/hmosqueraturner/sua-autonomous-car) 
+![](/images/underCon.jpg)
 * Este proyecto es parte de un trabajo de master y fue mejorado de manera personal posteriormente
 * Se trata de un vehiculo autonomo implementado en lenguaje java
 * emplea OSGi para la actualizacion en runtime 
@@ -55,7 +65,7 @@ Fue desarrollado inicialmente como parte de un trabajo de master y ha sido mejor
 
 # Next Generation Projects - WIP 
 Grupo de proyectos multi lenguajes, multi tech en los que estoy empezando a trabajar.
-
+![](/images/1.png)
 | Project                         | Description                                                                                | Status | Link             | 
 |:--------------------------------|:-------------------------------------------------------------------------------------------|:-------|:-----------------|
 | E-commerce Site   |- Frontend: Svelte<br>- Backend: Node.js + Express<br>- Base de Datos: PostgreSQL<br>- Otros: Typescript| ok | wip   |
