@@ -2,9 +2,7 @@
 List of development projects using multiple programming languages ​​and frameworks
 
 # [Ideal CI/CD One: Ideal Pipeline 1 ](https://github.com/hmosqueraturner/ideal-cicd-one) 
-<center>
 ![](/images/3.png)
-</center> 
 * Un ejemplo completo de un pipeline de CI/CD con Jenkins, utilizando Groovy,
 * GitHub como sistema de control de versiones (SCM),
 * Maven para construir una aplicación Java
@@ -13,9 +11,7 @@ List of development projects using multiple programming languages ​​and fram
 * Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
 # [ACiD: Automatic Continuous Integration and Delivery Suite ](https://github.com/hmosqueraturner/ACiD) 
-<center> 
 ![](/images/underCon.jpg)
-</center> 
 <br>
 Un ejemplo de la suite personal de automatizacion para CI/CD con Jenkins<br>
 ** Set Up ACiD Suite: **
@@ -35,9 +31,7 @@ Un ejemplo de la suite personal de automatizacion para CI/CD con Jenkins<br>
 * Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
 # [ACiD-One: ACiD Solution for TFM ](https://github.com/hmosqueraturner/acid-one) 
-<center> 
 ![](/images/acid2.png)
-</center> 
 * Este proyecto es parte de mi rabajo de fin de master
 * Se trata un pipeline que automatiza el proceso de CICD para un ecosistema de componentes y aplicacion pricipal con mensajeria en kafka
 * Este pipeline va desde SCM, Build, Test, Linting, Publish y Deploy, donde se cede el control a Ansible Tower
